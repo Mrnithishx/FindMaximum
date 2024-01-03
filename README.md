@@ -58,6 +58,7 @@ def max_marks(list1):
 i)	# To find the maximum of marks using the list method sort.
 ![image](https://github.com/Mrnithishx/FindMaximum/assets/148201573/ab703c9d-197e-4623-b6e0-c72e9cc756ad)
 
+
 ii)	# To find the maximum marks using the list method max().
 ![image](https://github.com/Mrnithishx/FindMaximum/assets/148201573/c55484a6-89ef-454e-b9e3-03d51baa93d8)
 
